@@ -32,7 +32,7 @@ public class SwaggerConfig {
                 "Administração de clientes",
                 "REST API para administrar clientes.",
                 "1.0",
-                "Terms of Service",
+                "Terms of Service ",
                 new Contact("Matheus Souza Santana", "https://www.linkedin.com/in/matheus-souza-a473a215a/",
                         "matheus.070202@gmail.com"),
                 "Apache License Version 2.0",
